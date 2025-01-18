@@ -10,7 +10,7 @@ Handled missing values, outliers, and inconsistent formatting.
 
 Standardized numerical and categorical fields to ensure accuracy.
 
-Prepared the dataset for visualization using libraries such as Pandas and NumPy.
+Prepared the dataset for visualization using libraries such as Pandas.
 
 Interactive Data Visualization:
 
