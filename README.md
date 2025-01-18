@@ -11,11 +11,12 @@ Interactive Data Visualization:
 
 **Created a dynamic dashboard using Power BI.**
 Included key performance indicators (KPIs), geographical analysis, and trends over time.
+
 Highlighted insights such as:
 Top 5 performing brands by equity.
 Sector-wise equity distribution and growth rates.
 Geographic breakdown of brand origin.
-Features:
+**Features:**
 Interactive slicers and filters for user-friendly exploration.
 Clear visual representation of key metrics (e.g., equity trends, density distribution).
 Advanced insights into brand performance over the years.
